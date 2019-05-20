@@ -1,3 +1,5 @@
 # Projects
-Varius Projects for my Portfolio
-Here are projests which I have worked on since... well since I have learned how to work with GitHub.
+
+It is a website with a clock written in JS. It has a graveyard as a background and a text which reminds you about the 
+fact that the time is passing and we are getting closer to the end...
+
